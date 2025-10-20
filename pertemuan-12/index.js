@@ -95,4 +95,4 @@ newPromise
   console.log(json);
 })();
 
-console.log("Test conflict beda file"
+console.log("Test conflict beda file");
